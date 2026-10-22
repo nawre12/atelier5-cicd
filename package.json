@@ -1,0 +1,10 @@
+{
+  "name": "atelier5-cicd",
+  "version": "1.0.0",
+  "description": "Atelier 5 Jenkins CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "node test.js"
+  }
+}
